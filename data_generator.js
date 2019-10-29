@@ -4,7 +4,7 @@
  */
 
 // set up data structures
-window.streams = {};
+window.streams =  {};
 streams.home = [];
 streams.users = {};
 streams.users.shawndrost = [];
