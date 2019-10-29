@@ -1,0 +1,21 @@
+div {
+	padding: 10px;
+	margin: 10px;
+	background-color: skyblue;
+	font-family: sans-serif;
+	border-radius: 30px;
+	text-align: center;
+}
+body {
+	background-color: #eee;
+}
+span {
+	background-color: purple;
+}
+
+#refresh {
+	width: 150px;
+	height: 50px;
+	border-radius: 25px;
+	box-shadow: 10px 5px 5px grey;
+}
